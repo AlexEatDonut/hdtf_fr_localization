@@ -14,5 +14,6 @@
 - If you wish to manually install, go to your game directory>hdtf>resource. All files go here
 - Si vous voulez installer manuellement, allez dans vos fichier de jeux>hdtf>resource. Tout les fichiers vont là dedans.
 
-#Stay up to date / restez à jour
+# Stay up to date / restez à jour
 - Read the lastest-changes file to know when were the last changes
+- Lisez le fichier lastest-changes pour connaitre les derniers changements
