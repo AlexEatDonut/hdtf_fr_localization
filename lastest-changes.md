@@ -6,3 +6,6 @@
 - Rephrased certain lines
 - Corrigé des érreurs de grammaire et de conjugaison
 - Reformulé certaines phrases
+# 25/05/2022 - File size reduction
+- Removed excess lines
+- Enlevé les lignes qui ne servaient à rien
