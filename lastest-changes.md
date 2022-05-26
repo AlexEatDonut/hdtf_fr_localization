@@ -9,3 +9,6 @@
 # 25/05/2022 - File size reduction
 - Removed excess lines
 - Enlevé les lignes qui ne servaient à rien
+# 27/05/2022 - General Fixes & update
+- Updated hdtf_french
+- Mis à jour hdtf_french
