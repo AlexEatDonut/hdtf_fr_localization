@@ -25,7 +25,13 @@
 - Corrigé des fautes de frappe
 
 # 19/06/2022 - Unprofesionnal version 6 - Patches
-- Subtitle : Fixed minor mistake
+- Subtitles : Fixed minor mistake
 - Updated hdtf_french to include new lines from the lastest patches
-- Sous-titres : coirrigé une erreur
+- Sous-titres : Corrigé une erreur
 - Mis-à jour hdtf_french pour que ça inclue les nouvelles lignes de code des derniers patchs
+
+# 26/06/2022 - Unprofesionnal version 7 - owf_developpement_build patch
+- Subtitles : Fixed minor mistakes ; added new lines from the latest build
+- Interface : Fixed spelling mistakes 
+- Sous-titres : Corrigé des erreurs ; ajouté les nouvelles lignes de dialogues
+- Interface : Corrigé des erreurs grammaticales
