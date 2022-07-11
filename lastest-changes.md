@@ -35,3 +35,7 @@
 - Interface : Fixed spelling mistakes 
 - Sous-titres : Corrigé des erreurs ; ajouté les nouvelles lignes de dialogues
 - Interface : Corrigé des erreurs grammaticales
+
+# 26/06/2022 - Unprofesionnal version 8 - Changes
+- Due to the whole "put CC in VPKs" deal i went back and made changes.
+- À cause d'une erreur de la part des devs je suis retourné voir mes traductions et ais mis à jour
