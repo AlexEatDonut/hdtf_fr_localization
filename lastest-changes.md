@@ -1,3 +1,10 @@
+# 20/09/2022 - Unprofesionnal version 9.1 - Fixed some mistakes + VSC pushing
+- Made the jump from using git badly to using vsc to push for things.
+- Fixed some mistakes and rephrased recent voice lines
+
+- Fait le bond pour utiliser VSC pour mettre à jour les fichiers
+- Corrigé quelques fautes et reformulé certaines phrases récemments ajoutées. 
+
 # 16/09/2022 - Unprofesionnal version 9 - Public release patch translations
 - Updated both hdtf_french and closecaption_french for the lastst public steam update.
 - Fixed some punctuation mistakes and corrected grammar.
