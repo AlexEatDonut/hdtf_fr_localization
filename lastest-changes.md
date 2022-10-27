@@ -47,6 +47,7 @@
 
 <details>
 <summary># 19/06/2022 - Unprofesionnal version 6 - Patches</summary>
+
     # EN
     - Subtitles : Fixed minor mistake
     - Updated hdtf_french to include new lines from the lastest patches
@@ -59,6 +60,7 @@
 
 <details>
 <summary># 28/05/2022 - Unprofesionnal version 5 - Grammatical fixes</summary>
+
     # EN
     - Fixed a visual error
     - Changed lines so that it reflects what is happening
@@ -73,6 +75,7 @@
 
 <details>
 <summary># 27/05/2022 - Unprofesionnal version 4 - General Fixes & update</summary>
+
     # EN
     - Updated hdtf_french
 
@@ -83,6 +86,7 @@
 
 <details>
 <summary># 25/05/2022 - Unprofesionnal version 3 - File size reduction</summary>
+
     # EN
     - Removed excess lines
 
@@ -93,6 +97,7 @@
 
 <details>
 <summary># 07/05/2022 - Unprofesionnal version 2 - hotfix</summary>
+
     # EN
     - Corrected grammatical errors
     - Rephrased certain lines
@@ -105,6 +110,7 @@
 
 <details>
 <summary># 06/05/2022 - Unprofesionnal version 1 - first release</summary>
+
     # EN
     - Finished translations for both interface and subtitles.
 
