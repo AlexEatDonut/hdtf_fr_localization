@@ -1,12 +1,24 @@
 # Change Log / Notes de mise à jours
+
+<details>
+    <summary>04/11/2022 - Unprofesionnal version 10 - New lines from Update</summary>
+
+# EN
+- Added new hints lines.
+- Fixed some mistakes.
+# FR
+- Ajoutez les nouvelles lignes pour le nouveau système d'astuces.
+- Corrigé certaines erreurs.
+
+</details>
 <details>
     <summary>20/09/2022 - Unprofesionnal version 9.1 - Fixed some mistakes + VSC pushing</summary>
 
 # EN
 - Made the jump from using git badly to using vsc to push for things.
-- Fixed some mistakes and rephrased recent voice lines
+- Fixed some mistakes and rephrased recent voice lines.
 # FR
-- Fait le bond pour utiliser VSC pour mettre à jour les fichiers
+- Fait le bond pour utiliser VSC pour mettre à jour les fichiers.
 - Corrigé quelques fautes et reformulé certaines phrases récemments ajoutées.
 
 </details>
@@ -16,7 +28,7 @@
 
 # EN
 - Updated both hdtf_french and closecaption_french for the lastst public steam update.
-- Fixed some punctuation mistakes and corrected grammar
+- Fixed some punctuation mistakes and corrected grammar.
 # FR
 - Mis à jour hdtf_french etclosecaption_french pour la dernière mise à jour publique de steam.
 - Corrigé certaines ponctuation et corrigé la grammaire à certains endroits
