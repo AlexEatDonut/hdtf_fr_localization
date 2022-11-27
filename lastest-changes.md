@@ -1,6 +1,15 @@
 # Change Log / Notes de mise à jours
 
 <details>
+    <summary>27/11/2022 - Unprofesionnal version 10.1 - Corrections</summary>
+
+# EN
+- Fixed some mistakes.
+# FR
+- Corrigé certaines erreurs.
+
+</details>
+<details>
     <summary>04/11/2022 - Unprofesionnal version 10 - New lines from Update</summary>
 
 # EN
@@ -104,7 +113,7 @@
 </details>
 
 <details>
-<summary># 07/05/2022 - Unprofesionnal version 2 - hotfix</summary>
+<summary>07/05/2022 - Unprofesionnal version 2 - hotfix</summary>
 
 # EN
 - Corrected grammatical errors
@@ -116,7 +125,7 @@
 </details>
 
 <details>
-<summary># 06/05/2022 - Unprofesionnal version 1 - first release</summary>
+<summary>06/05/2022 - Unprofesionnal version 1 - first release</summary>
 
 # EN
 - Finished translations for both interface and subtitles.
