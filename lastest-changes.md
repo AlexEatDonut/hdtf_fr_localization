@@ -1,12 +1,23 @@
 # Change Log / Notes de mise à jours
 
 <details>
+    <summary>27/12/2022 - Unprofesionnal version 10.2 - Corrections</summary>
+
+# EN
+- Fixed some spelling mistakes.
+- New line check-up (no new lines found).
+# FR
+- Corrigé certaines erreurs grammaticales.
+- Vérifié que j'ai bien tout traduit (rien de nouveau).
+
+</details>
+<details>
     <summary>27/11/2022 - Unprofesionnal version 10.1 - Corrections</summary>
 
 # EN
-- Fixed some mistakes.
+- Fixed some spelling mistakes.
 # FR
-- Corrigé certaines erreurs.
+- Corrigé certaines erreurs grammaticales.
 
 </details>
 <details>
