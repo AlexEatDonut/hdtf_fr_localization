@@ -18,10 +18,6 @@
 
 - Si vous voulez installer manuellement, allez dans vos fichier de jeux>hdtf>resource. Tout les fichiers vont là dedans. Ensuite ouvrez une autre fenêtre de l'explorateur de fichiers, allez dans vos fichier de jeux>bin et glissez-déposez le fichier closecaption_french.txt du dossier ressources dans l'executable captioncompiler.exe. À partir d'ici, tout est fait.
 
-# Rester à jour
-
-- Lisez le fichier lastest-changes pour connaitre les derniers changements
-
 ## EN
 
 # French Localization
@@ -41,7 +37,3 @@
 - The files should already be patched in the dev build (as i also change the files in the official translation github), however do note that there is time between me changing the files and them updating the game.
 
 - If you wish to manually install, go to your game directory>hdtf>resource. All files go here. Next, open a new file explorer window and go to your game directory>bin and drag the closecaption_french.txt file from the ressource folder onto the captioncompiler.exe executable. Everything will be done once you did that.
-
-# Stay up to date
-
-- Read the lastest-changes file to know when were the last changes
